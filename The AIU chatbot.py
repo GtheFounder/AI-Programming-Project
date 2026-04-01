@@ -5,13 +5,6 @@ Reg No: 251835DAI
 Description: A rule-based chatbot that answers FAQs about AI and university life.
 """
 
-# ─────────────────────────────────────────────
-# WHAT IS A RULE-BASED CHATBOT?
-# It works using IF-ELSE logic and keyword matching.
-# No machine learning is involved — it scans the user's
-# input for known keywords and returns a pre-written response.
-# ─────────────────────────────────────────────
-
 import re  # 're' is Python's regular expressions library — used for pattern matching
 
 

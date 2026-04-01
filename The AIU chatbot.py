@@ -208,3 +208,4 @@ def run_chatbot():
 # ── RUN ──────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     run_chatbot()
+#This is the final project. It is a simple rule-based chatbot that answers FAQs about AI and university life. The bot uses keyword matching to determine the user's intent and provides pre-written responses.

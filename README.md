@@ -1,4 +1,4 @@
-content = """# 🚖 Uber Profitability Predictor: A Machine Learning Approach
+# 🚖 Uber Profitability Predictor: A Machine Learning Approach
 
 An end-to-end Data Science project that analyzes ride-sharing data to identify the most profitable routes and times for drivers. The project utilizes a Decision Tree Classifier to predict high-profit scenarios based on real-world constraints like traffic and surge pricing.
 
